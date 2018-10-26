@@ -1,0 +1,24 @@
+{
+  "name": "mmirus/gravity-forms-javascript-dynamic-population",
+  "description": "Dynamically populate Gravity Forms fields from query parameters using JavaScript.",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "homepage": "https://github.com/mmirus/gravity-forms-javascript-dynamic-population",
+  "authors": [
+    {
+      "name": "Matt Mirus",
+      "email": "matt@mattmirus.com",
+      "homepage": "https://github.com/mmirus"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "gravity forms"
+  ],
+  "support": {
+    "issues": "https://github.com/mmirus/gravity-forms-javascript-dynamic-population/issues"
+  },
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
