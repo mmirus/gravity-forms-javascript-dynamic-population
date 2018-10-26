@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3 / 2018-10-26
+
+- Remove errant empty line
+
 ## 1.0.2 / 2018-10-26
 
 - Require composer/installers
