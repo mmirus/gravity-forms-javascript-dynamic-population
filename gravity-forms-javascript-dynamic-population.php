@@ -1,4 +1,3 @@
-
 <?php
 /*
 Plugin Name: Gravity Forms JavaScript Dynamic Population
@@ -6,7 +5,7 @@ Plugin URI: https://github.com/mmirus/gravity-forms-javascript-dynamic-populatio
 Description: Dynamically populate Gravity Forms fields from query parameters using JavaScript.
 Author: Matt Mirus
 Author URI: https://github.com/mmirus
-Version: 1.0.2
+Version: 1.0.3
 GitHub Plugin URI: https://github.com/mmirus/gravity-forms-javascript-dynamic-population
  */
 
